@@ -13,6 +13,7 @@ An end-to-end online voting platform designed to make the voting process secure,
 - 📱 **Responsive Design** – Works on mobile and desktop
 
 ---
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/c937839a-23e7-4e55-b72b-a57763579afa" />
 
 ## 🛠️ Tech Stack
 
